@@ -6,7 +6,7 @@ from Tools.scripts.treesync import raw_input
 show_animation = True
 
 
-class AStarPlanner:
+class AStarPlanne:
 
     def __init__(self, ox, oy, reso, rr):
         """
